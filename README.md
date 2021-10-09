@@ -1,0 +1,2 @@
+# picgo_save
+savepicture
